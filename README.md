@@ -1,12 +1,9 @@
 # The Midnight Library
 
-
-
 <figure>
-  <img src="https://github.com/MK316/Digital-Literacy-Class/blob/main/materials/story01.png" width="500" height="500">
-  <figcaption>이미지에 대한 설명을 여기에 추가하세요.</figcaption>
+  <img src="https://github.com/username/repository/blob/main/image.png" width="500">
+  <figcaption>이 이미지는 프로젝트 설명을 돕는 예시 이미지입니다.</figcaption>
 </figure>
-
 
 
 In the small town of *Willowby*, there stood an old library that was rumored to be enchanted. Every night at midnight, the books inside would whisper stories to each other, bringing their characters to life. One evening, **Sarah**, a curious 15-year-old book lover, decided to sneak into the library to see if the rumors were true.
