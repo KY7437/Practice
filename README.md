@@ -1,8 +1,8 @@
 # The Midnight Library
 
 <figure>
-  <img src="https://github.com/username/repository/blob/main/image.png" width="500">
-  <figcaption>이 이미지는 프로젝트 설명을 돕는 예시 이미지입니다.</figcaption>
+  <img src="https://github.com/MK316/Digital-Literacy-Class/blob/main/materials/story01.png" height="500", width="500">
+  <figcaption>The Midnight Libaray</figcaption>
 </figure>
 
 
